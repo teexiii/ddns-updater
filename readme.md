@@ -36,7 +36,7 @@ window-ddns-updater is a Windows batch script designed to automatically update D
 Run the script by double-clicking it or executing it from the command line:
 
 ```
-.\window-ddns-updater.bat
+.\change-dns.bat
 ```
 
 The script will run continuously, checking for IP changes every 30 seconds and updating the DNS record when necessary.
